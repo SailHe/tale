@@ -1,2 +1,1 @@
-web:    java -cp target/classes:target/dependency/* com.tale.Application
-
+web: java -jar target/tale.jar
